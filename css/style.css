@@ -18,6 +18,10 @@ h1 {
   display: inline-block;
 }
 
+h3{
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
 .logo{
   vertical-align: middle;
 }
@@ -30,13 +34,14 @@ h1 {
   border-radius: 2px;
   padding-top: 5px;
   padding-bottom: 5px;
+  
 }
 
 .alto{
   margin-top: 40px;
 }
 
-.button{
+.button {
   padding: 5px;
   border-radius: 5px;
   padding: 6px;
@@ -54,3 +59,56 @@ h1 {
   border-color: lightgray;
 }
 
+.basso{
+  margin-top: 3px;
+}
+
+.riga{
+  margin-bottom: 10px;
+}
+.speciale{
+  margin-bottom: 15px;
+}
+.chek{
+  color: green;
+  border-radius: 4px;
+  border:solid;
+}
+
+.little{
+  padding: 5px;
+  border-radius: 5px;
+  padding: 6px;
+  font-size: x-small;
+  border: 0;
+  color: white;
+}
+.editorial {
+  background-color: #47adf1;
+}
+
+.q1{
+  background-color: #9c72e4;
+}
+
+.recruiting{
+  background-color: #64c0a9;
+}
+
+.cross{
+  color: red;
+  border-radius: 4px;
+  border:solid;
+}
+
+.mobile{
+  background-color: #f29e33;
+}
+
+.web{
+  background-color: #d863a1;
+}
+
+.sales{
+  background-color: #b0c926;
+}
