@@ -21,3 +21,36 @@ h1 {
 .logo{
   vertical-align: middle;
 }
+
+.container{
+  background-color: #f6f8f9;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-left: 20px;
+  border-radius: 2px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.alto{
+  margin-top: 40px;
+}
+
+.button{
+  padding: 5px;
+  border-radius: 5px;
+  padding: 6px;
+}
+
+.task {
+  background-color: #47adf1;
+  color: white;
+  border: 0;
+}
+
+.section{
+  background-color: white;
+  color: lightgray;
+  border-color: lightgray;
+}
+
